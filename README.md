@@ -55,3 +55,5 @@ using  Light GBM
 ![image](https://user-images.githubusercontent.com/73217181/121851835-357e0c00-cd21-11eb-9017-fd89ba080a55.png)
 
 
+ report link
+https://drive.google.com/file/d/1drIItUpGYscIWmAhlbLiIhh4Znayx32N/view?usp=sharing
