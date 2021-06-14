@@ -17,6 +17,8 @@ print(train.isnull().sum())
 print(test.isnull().sum())
 
 確認商店 月份  品項售出狀況
+
+
 ![image](https://user-images.githubusercontent.com/73217181/121851705-04054080-cd21-11eb-9733-b3183e52e1f1.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -39,11 +41,21 @@ for i in range(1,len(train_grouped_s)):
         
 
 確認品項
+
 ![image](https://user-images.githubusercontent.com/73217181/121905430-ba3a4b80-cd5c-11eb-97ac-f85c18d1bb2e.png)
+
+
 確認商店
+
+
 ![image](https://user-images.githubusercontent.com/73217181/121905474-c58d7700-cd5c-11eb-9b5e-fc24117ddf12.png)
+
 確認商店31 與 品項20949  彼此間的關係
+
+
 ![image](https://user-images.githubusercontent.com/73217181/121905546-d9d17400-cd5c-11eb-8010-094dc7370d9b.png)
+
+
 
 確認為合理的分布  我們留下outlier
 
