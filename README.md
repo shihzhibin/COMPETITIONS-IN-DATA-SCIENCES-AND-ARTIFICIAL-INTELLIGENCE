@@ -122,7 +122,7 @@ Item  預處理
 ----------------------------------------------SHOP AND ITEM CATEGORY CLUSTERING-------------------------------
 
 
-這邊商店和商品類別我們根據其銷售概況 進行cluster
+
 
 ![image](https://user-images.githubusercontent.com/73217181/122633544-bcf5c180-d10b-11eb-90fb-c58c995ebbf6.png)
 
