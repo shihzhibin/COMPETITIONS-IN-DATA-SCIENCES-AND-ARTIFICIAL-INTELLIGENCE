@@ -1,13 +1,11 @@
-# HW-4
+# HW-4  1092_資料科學與人工智慧競技  COMPETITIONS IN DATA SCIENCES AND ARTIFICIAL INTELLIGENCE
 
-#Load data 
-train = pd.read_csv('sales_train.csv')
-test = pd.read_csv('test.csv')
-sample_submission = pd.read_csv('sample_submission.csv')
-items = pd.read_csv('items.csv')
-item_categories = pd.read_csv('item_categories.csv')
-shops = pd.read_csv('shops.csv')
 
+
+![image](https://user-images.githubusercontent.com/73217181/122633732-9b490a00-d10c-11eb-9a39-bcf4c9a3cabc.png)
+
+
+P96091092施智臏   |   NF6094019洪志宇 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 流程
 
